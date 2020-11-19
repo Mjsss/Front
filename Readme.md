@@ -33,7 +33,7 @@ $ npm run start
   - [x] Order history
   - [x] Order cancle
   - [x] Add check Style
-  - [ ] Reful API
+  - [ ] Restful API
   - [ ] Wechat QR code login
   - [ ] Google QR code login
   - [ ] Resize window（New UI）
