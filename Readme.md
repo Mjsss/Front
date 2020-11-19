@@ -40,4 +40,4 @@ $ npm run start
 
 ## Preview
 
-![screenshot](F:\Java3.0\Front\screenshot.gif)
+![screenshot](https://github.com/Mjsss/Front/blob/master/screenshot.gif)
