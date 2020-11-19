@@ -28,9 +28,9 @@ $ npm run start
   - [x] Search
   - [x] Payment 
        - [x]   Pay.js  https://pay.jp/docs/payjs
-       - [x]   Adyen   https://www.adyen.com/ja_JP/payment-methods
-       - [x]   LinePay QR   https://pay.line.me/jp/developers/apis/onlineApis?locale=ja_JP
-       - [x]   PayPay   https://paypay.ne.jp/biz/api/ ✖
+       - [ ]   Adyen   https://www.adyen.com/ja_JP/payment-methods
+       - [ ]   LinePay QR   https://pay.line.me/jp/developers/apis/onlineApis?locale=ja_JP
+       - [ ]   PayPay   https://paypay.ne.jp/biz/api/ ✖
   - [x] Order
   - [x] Inventory
   - [x] Comment（Read only）
