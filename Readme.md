@@ -1,7 +1,7 @@
 ### React
 
 - react
-- react-router(路由)
+- react-router
 - redux react-redux redux-sagas redux-form(redux)
 - styled-components scss (css)
 - react-loadable
@@ -40,8 +40,8 @@ $ npm run start
   - [ ] Restful API
   - [ ] Wechat QR code login
   - [ ] Google QR code login
-  - [ ] Resize window（New UI）
+  - [ ] Resize window（New UI）多言語対応
 
 ## Preview
-
+（in Chinese UI）
 ![screenshot](https://github.com/Mjsss/Front/blob/master/screenshot.gif)
